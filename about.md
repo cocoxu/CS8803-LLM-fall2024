@@ -19,7 +19,7 @@ description: >-
 
 This is a discussion-based research-oriented class. This is **not a lecture-based class** (if you prefer lectures, take [CS 7650](https://cocoxu.github.io/CS7650_spring2024/)). In each class, students will present and lead discussion of recent research papers on large language papers. This class is designed for students who want to do research, and students will conduct a self-directed research project in this class. 
 
-This class will have a heavy course load, highly changeling, intended for PhD students and MS students who have enough time, motivations, and capabilities (i.e., data analytics, creativity, programming, technical writing, critical thinking) to comprehend and conduct research at the top NLP research level. 
+This class will have a heavy course load, highly challenging, intended for PhD students and MS students who have enough time, motivations, and capabilities (i.e., data analytics, creativity, programming, technical writing, critical thinking) to comprehend and conduct research at the top NLP research level. 
 
 Bonus point: some students may continue on working in the [**NLP X Lab**](https://cocoxu.github.io/#advise) at the Georgia Tech after the class and publish their projects at top ML/NLP conferences!  
 

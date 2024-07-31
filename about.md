@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus and Course Policy
 description: >-
-    CS 4650. Course policies and information.
+    CS 8803-LLM. Course policies and information.
 ---
 
 # About
@@ -17,25 +17,28 @@ description: >-
 ---
 ## About the Class
 
-This is a discussion-based research-oriented class. It is not a lecture-based class. In each class, students will present and lead discussion of recent research papers on large language papers. This class is designed for students who want to do research, and students will conduct a self-directed research project in this class. 
+This is a discussion-based research-oriented class. This is **not a lecture-based class** (if you prefer lectures, take [CS 7650](https://cocoxu.github.io/CS7650_spring2024/)). In each class, students will present and lead discussion of recent research papers on large language papers. This class is designed for students who want to do research, and students will conduct a self-directed research project in this class. 
 
-This class will have a heavy course load, highly changeling, intended for PhD students and MS students who have enough time, motivations, and capabilities (i.e., data analytics, creativity, programming, technical writing, critical thinking) to conduct research at the top NLP research level. 
+This class will have a heavy course load, highly changeling, intended for PhD students and MS students who have enough time, motivations, and capabilities (i.e., data analytics, creativity, programming, technical writing, critical thinking) to comprehend and conduct research at the top NLP research level. 
 
-Bonus point: some students may continue on working in the NLP X lab at the Georgia Tech after the class and publish their projects at top ML/NLP conferences!  
+Bonus point: some students may continue on working in the [**NLP X Lab**](https://cocoxu.github.io/#advise) at the Georgia Tech after the class and publish their projects at top ML/NLP conferences!  
 
 
 
 ## Prerequisites
 
-This is an advanced-level research-oriented class. The class will require a good understanding of machine learning algorithms (CS 4641/7641), deep learning models (CS 4644/7643), and NLP techniques (CS 4650/7650). Generally speaking, if you want to learn about NLP and want to see lectures given by an instructor, you should take CS 7650. 
+This is an advanced-level research-oriented class. The class will require a good understanding of machine learning algorithms (CS 4641/7641), deep learning models (CS 4644/7643), and NLP techniques (CS 4650/7650). For most of the classes, one or two students will present an assigned research paper in-depth and lead the discussion in class. 
 
-If you have enough background and feel comfortable to discuss papers that you may find difficult to understand, we do encourage you to take this class, even if you are in the first year of your graduate school -- especially if you want to complete a paper for publication and/or if you plan to pursue a Ph.D. later. 
+Generally speaking, if you want to learn about NLP and want lectures given by an instructor, you should take CS 7650. 
 
-Below are some example papers we will ask students to present and discuss in the classes:
 
-- "Direct Preference Optimization - Your Language Model is Secretly a Reward Model" 
-- "Learning to Decode Collaboratively with Multiple Language Models"
-- "What do BPE tokenizers reveal about their training data?"
+Yet, if you have enough background, we do encourage you to take this 8803-LLM class in your first year of your graduate school -- especially if you want to complete a paper for publication and/or if you plan to pursue a Ph.D. later. 
+
+Below are some example papers which students will be asked to present and discuss in the classes:
+
+- "[Direct Preference Optimization - Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)" 
+- "[Learning to Decode Collaboratively with Multiple Language Models](https://arxiv.org/pdf/2403.03870)"
+- "[What do BPE tokenizers reveal about their training data?](https://arxiv.org/pdf/2407.16607)"
 
 
 ## Assignments / Grading
@@ -49,8 +52,6 @@ For most of the classes, we will discuss one research paper (i.e., analyze its s
 ### Presentations (25%)
 
 Students will give multiple presentations of recent research papers (with varied length of time, e.g., 30 minutes or 2 minutes). 
-
-For most of the classes, 1~2 students will present an assigned research paper in-depth and lead the discussion in class. 
 
 ### Course project (55%; group of 1~3 students)  
 

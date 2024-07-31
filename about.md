@@ -43,7 +43,7 @@ Below are some example papers which students will be asked to present and discus
 
 ## Assignments / Grading
 
-### Participation and Discussion (20%)
+### Participation and Discussion (15%)
 
 This class will require 100% in-person attendance for every class. We will take attendance in the class. 
 
@@ -53,7 +53,7 @@ For most of the classes, we will discuss one research paper (i.e., analyze its s
 
 Students will give multiple presentations of recent research papers (with varied length of time, e.g., 30 minutes or 2 minutes). 
 
-### Course project (55%; group of 1~3 students)  
+### Course project (60%; group of 1~3 students)  
 
 Students will work in group of 1~3 to propose, conduct, give presentations, and write written reports of a self-directed research project. 
 

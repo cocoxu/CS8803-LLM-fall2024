@@ -37,7 +37,6 @@ Yet, if you have enough background, we do encourage you to take this 8803-LLM cl
 Below are some example papers which students will be asked to present and discuss in the classes:
 
 - "[Direct Preference Optimization - Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)" 
-- "[Learning to Decode Collaboratively with Multiple Language Models](https://arxiv.org/pdf/2403.03870)"
 - "[What do BPE tokenizers reveal about their training data?](https://arxiv.org/pdf/2407.16607)"
 
 

@@ -19,7 +19,7 @@ seo:
 
 
 - Instructor: [Wei Xu](https://cocoxu.github.io) 
-- Lecture: Mondays, Wednesdays 2:00-3:15pm
+- Lecture: Mondays, Wednesdays 12:30-1:45pm
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}

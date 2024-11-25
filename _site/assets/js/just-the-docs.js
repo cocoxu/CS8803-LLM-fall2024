@@ -59,7 +59,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'http://localhost:4000/CS8803-LLM-fall2024/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'https://cocoxu.github.io/CS8803-LLM-fall2024/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready

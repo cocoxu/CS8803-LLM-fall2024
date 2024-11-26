@@ -49,7 +49,7 @@ Oct 21
 
 Oct 23
 : [Human-Aware Losses for Alignment (Guest Lecture by Kawin Ethayarajh)](https://cocoxu.github.io/CS8803-LLM-fall2024/slides/kawin_halos.pdf)
-  : [KTO](https://arxiv.org/abs/2407.21783)
+  : [KTO](https://arxiv.org/abs/2402.01306)
 
 Oct 28
 : [MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts](https://cocoxu.github.io/CS8803-LLM-fall2024/slides/11_moma.pdf)
